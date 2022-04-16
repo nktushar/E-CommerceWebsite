@@ -1,0 +1,20 @@
+.slide_background{
+    background-color: #feeae9;
+    border-radius: 8px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.banner-price{
+    color: #dc105a;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff1368 100%);
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 8px;
+}
+.container{
+    margin-bottom: 50px;
+}
